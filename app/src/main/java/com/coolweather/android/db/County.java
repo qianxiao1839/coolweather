@@ -6,7 +6,7 @@ import org.litepal.crud.DataSupport;
  * Created by kimdong on 2018/10/8.
  */
 
-public class County extends DataSupport{
+public class County extends DataSupport {
     private int id;
     private String countyName;//记录县的名字
     private String weatherId;//记录县所对应的天气id

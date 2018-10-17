@@ -6,7 +6,7 @@ import org.litepal.crud.DataSupport;
  * Created by kimdong on 2018/10/8.
  */
 
-public class City extends DataSupport{
+public class City extends DataSupport {
     private int id;
     private String cityName;//记录市名
     private int cityCode;//记录市的代号
